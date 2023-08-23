@@ -150,23 +150,16 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「<a href=https://OnePageLink.in> ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」─────
+<b>𝗬𝗼𝘂 𝗖𝗮𝗻 𝗥𝗲𝗾𝘂𝗲𝘀𝘁 𝗠𝗼𝘃𝗶𝗲 𝗙𝗿𝗼𝗺 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗨𝗻𝘁𝗶𝗹 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗜𝘀 𝗔𝗹𝗶𝘃𝗲.
 
-Now You can start earning 💸 money today with our Simple and easy-to-use bot!
+𝗪𝗮𝗻𝘁 𝗧𝗼 𝗞𝗻𝗼𝘄? 𝗙𝗼𝗹𝗹𝗼𝘄 𝗧𝗵𝗲𝘀𝗲 𝗦𝘁𝗲𝗽𝘀 :-
 
-›› Step 1: Add This bot to your group as an admin..
+𝗦𝘁𝗲𝗽 𝟭 : 𝗬𝗼𝘂 𝗠𝘂𝘀𝘁 𝗝𝗼𝗶𝗻 @awesomedudechannel
+𝗙𝗼𝗿 𝗔𝗹𝗹 𝗨𝗽𝗱𝗮𝘁𝗲𝘀.
 
-›› Step 2: If you don't Using any shortner website then make account first on OnePageLink.in (You can also use other link shortner website).
+𝗦𝘁𝗲𝗽 𝟮 : 𝗝𝗼𝗶𝗻 𝗧𝗵𝗲 𝗚𝗿𝗼𝘂𝗽 𝗠𝗲𝗻𝘁𝗶𝗼𝗻𝗲𝗱 𝗜𝗻 𝗧𝗵𝗮𝘁 𝗖𝗵𝗮𝗻𝗻𝗲𝗹
 
-›› Step 3: Copy your API from website and then, simply set your website and API Using the
-/shortlink command
-
-› Like this :  /shortlink OnePageLink.in 807085265f74bb78d42c3c5994d9429c1edd5ac8
-
-
-★ This bot will automatically converts links with Your Api and will provide your links.
-
-★ Don't wait any longer to start earning money from your telegram group. Add our bot today and start making money 💰! </b>
+𝗦𝘁𝗲𝗽 𝟯 : 𝗥𝗲𝗾𝘂𝗲𝘀𝘁 𝗧𝗵𝗲 𝗠𝗼𝘃𝗶𝗲 𝗬𝗼𝘂 𝗪𝗮𝗻𝘁 𝗧𝗼 𝗦𝗲𝗲 𝗪𝗶𝘁𝗵 𝗖𝗼𝗿𝗿𝗲𝗰𝘁 𝗦𝗽𝗲𝗹𝗹𝗶𝗻𝗴</b>
 """
 
     REQINFO = """
