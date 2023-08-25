@@ -25,7 +25,13 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('✘ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✘', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('⚜️ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ⚜️', url=CHNL_LNK)
+                    InlineKeyboardButton('✇ ᴜᴘᴅᴀᴛᴇ ✇', url=CHNL_LNK),
+                    InlineKeyboardButton('✪ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ', url=GRP_LNK)
+                ],[
+                    InlineKeyboardButton('〄 ʜᴇʟᴘ ', callback_data='help'),
+                    InlineKeyboardButton('⍟ ᴀʙᴏᴜᴛ ', callback_data='about')
+                ],[
+                    InlineKeyboardButton('🍿 sᴛᴇᴘs ᴛᴏ ɢᴇᴛ ᴍᴏᴠɪᴇs 🍿', callback_data="shortlink_info")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup, disable_web_page_preview=True)
